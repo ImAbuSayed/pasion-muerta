@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/pasion-muerta/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Pasión muerta](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/pasion-muerta/) |
+| **Get License** | [Commercial Licensing for Pasión muerta](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/pasion-muerta/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Lights flash, your body's calling out my name
+> Midnight heat, we're playing a dangerous game
+> One touch and I'm lost inside your flame
+> Pasión muerta, I'll never be the same
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
