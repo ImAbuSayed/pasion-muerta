@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Pasión muerta
+
+This log tracks the cryptographic history and versioning for the song **Pasión muerta** (pasion-muerta).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-20T08:06:57.081900 | `v1` | `d98c6414f4fdf9a57573e154fd079962825fd1268cb99360693769f08fc71f26` | `dd84abf476b11c646cae60d84f558d45c724c4bed0bd0c6e23cc6a7d9500e37e` | `2026-06-20_pasion-muerta-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
